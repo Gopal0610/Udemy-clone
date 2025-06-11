@@ -33,5 +33,5 @@ To demonstrate my ability to design and animate professional, user-friendly web 
 
 
 * visitewebsite - https://gopal0610.github.io/Udemy-clone/
-  Then open index.html in your browser.
+  
   Then open index.html in your browser.
