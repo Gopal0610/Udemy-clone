@@ -1,6 +1,6 @@
-Project Title: Udemy Clone – Educational Platform UI
+# Project Title: Udemy Clone – Educational Platform UI
 
-Description:
+# Description:
 
 I have developed a front-end clone of the popular online learning platform Udemy, using HTML and CSS with customized animations and responsive design. This project replicates the visual structure and key user interface elements of Udemy, including:
 
@@ -16,7 +16,7 @@ A responsive layout that adapts to different screen sizes (mobile, tablet, deskt
 
 This project focuses on front-end design only—no backend or functional course enrollment. It showcases my skills in crafting a clean, intuitive UI and applying modern CSS techniques to enhance user experience.
 
-Tools & Technologies Used:
+# Tools & Technologies Used:
 
 HTML5
 
@@ -28,6 +28,8 @@ CSS Transitions & Keyframe Animations
 
 Media Queries for Responsive Design
 
-Purpose:
+# Purpose:
 To demonstrate my ability to design and animate professional, user-friendly web interfaces while closely replicating a real-world application.
-visitewebsite -
+
+
+* visitewebsite - https://gopal0610.github.io/Udemy-clone/
